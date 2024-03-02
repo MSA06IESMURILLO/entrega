@@ -39,8 +39,18 @@ p {
 b,strong {
 	font-size:22px;
 }
-a {
-	text-shadow:5px 5px 5px #000
+c {
+	text-shadow:3px 3px 3px #7D6608;
+}
+img {
+	border-radius:10px;
+}
+a:hover {
+	font-size:25px;
+}
+a:active {
+	font-color:red;
+	font-size:25px;
 }
 div {
 	width: fit-content;
