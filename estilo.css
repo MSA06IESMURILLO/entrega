@@ -43,6 +43,7 @@ a {
 	text-shadow:5px 5px 5px #000
 }
 div {
-     padding: 20px;
-     border: 5px dotted #c82828;
+	width: fit-content;
+	padding: 20px;
+	border: 5px dotted #c82828;
 }
